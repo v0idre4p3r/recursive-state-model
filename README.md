@@ -1,7 +1,7 @@
 # recursive-state-model
 **The following is a unifying framework for stochastic systems, it is a recursive state equation.**
 
-base form: Xₙ = Xᵦ + k(Wₙ(Xₙ₋₁⊙εₙ) + bₙ) 
+base form: Xₙ = Xᵦ + kₙ(Wₙ(Xₙ₋₁⊙εₙ) + bₙ) 
 
 entropy-expanded: Xᵉⁿᵗ = e⁻λⁿ ⊙ [Xᵦ+ k(Wₙ(Xₙ₋₁⊙εₙ) + bₙ)] 
 
