@@ -3,7 +3,7 @@
 
 base form: Xₙ = Xᵦ + kₙ(Wₙ(Xₙ₋₁⊙εₙ) + bₙ) 
 
-entropy-expanded: Xᵉⁿᵗ = e⁻λⁿ ⊙ [Xᵦ+ k(Wₙ(Xₙ₋₁⊙εₙ) + bₙ)] 
+entropy-expanded: Xᵉⁿᵗ = e⁻λⁿ ⊙ [Xᵦ+ kₙ(Wₙ(Xₙ₋₁⊙εₙ) + bₙ)] 
 
 # 🔒 ETHICAL USE MANDATE
 **This work is released solely for harm reduction purposes.** By using this software, you agree:
